@@ -3,7 +3,7 @@ pipeline {
     stages {
         // stage('Checkout') {
         //     steps {
-        //         git 'https://github.com/hoanglinhdigital/nodejs-random-color.git'
+        //         git 'https://github.com/mtnhan/nodejs-random-color.git'
         //     }
         // }
 
