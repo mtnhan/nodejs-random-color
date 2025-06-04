@@ -1,4 +1,4 @@
-name: Clear ECS Resources
+name: 4. Clear ECS Resources
 
 on:
   workflow_dispatch:

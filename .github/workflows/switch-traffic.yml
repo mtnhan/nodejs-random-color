@@ -1,4 +1,4 @@
-name: Switch ALB Traffic
+name: 3. Switch ALB Traffic
 
 on:
   workflow_dispatch: {}
